@@ -109,3 +109,9 @@ This backend offers a modular, scalable, and maintainable system supporting:
 - Secure file handling through AWS S3
 - Consistent, flexible data through MongoDB
 - Clear separation of command/query responsibilities
+
+---
+
+## Notes
+
+I have removed the acces key and secret from the appsettings.json, they need to be replaced with your own.
